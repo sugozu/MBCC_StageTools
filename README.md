@@ -3,12 +3,13 @@
 - In your MBAACC folder, go to "out" folder, cut the "bg" folder inside of it into the MBAACC folder
 - Delete the now empty "out" folder and delete the "0000.p" file, or rename it to something else so the game does not read it.
 
-## Foreground object remover ##
+[Download the binary from the releases page](https://github.com/sugozu/MBCC_StageTools/releases/latest)
+### Foreground object remover ###
 This tool removes grass, bamboos and flowers that are in the foreground layer of a stage.
 Doing so prevents the characters/projectiles from being hidden, making the stages more fair/playable.
 - Place the executable into the stage file folder (bg) and run it to toggle the layers on or off.
 
-## Stage converter ##
+### Stage converter ###
 This tool converts 24/32bit BMP files to melty background images and other way around.
  **Make sure the bmp image is 1184 pixels wide and 912 pixels high**
 
